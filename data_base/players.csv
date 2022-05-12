@@ -1,0 +1,10 @@
+id_player,name,age,position,id_country,id_team
+1,Aleksandar Vezenkov,26,Forward,1,1
+2,Nemanja Nedovic,30,Guard,2,2
+3,Kim Tillie,33,Forward,3,3
+4,Will Cummings,29,Guard,4,4
+5,Mike James,31,Guard,5,5
+6,Elie Okobo,24,Guard,3,6
+7,Nikola Mirotic,31,Forward,6,7
+8,Guerschon Yabusele,26,Forward,3,8
+9,Ante Tomic,35,Center,7,9
